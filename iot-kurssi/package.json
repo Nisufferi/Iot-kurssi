@@ -5,7 +5,7 @@
   "author": "justadudewhohacks",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "johnny-five": "^1.3.1",
     "nodemon": "^2.0.1",
     "request": "^2.88.0",
